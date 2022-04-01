@@ -1,29 +1,29 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "fpssharp",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "FPS#",
+  "description": "THE MOST GOODEST FPSER EVER!!!!!!!!!!!!!",
   "authors": [
-    "Me!"
+    "SudoDistnat"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "APRIL FOOLS!",
+    "sources": "APRIL FOOLS!"
   },
 
-  "license": "CC0-1.0",
+  "license": "Closed Source >:D",
   "icon": "assets/modid/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "eyeoh.geethoob.sudodistnat.EFPEEES"
     ]
   },
   "mixins": [
-    "modid.mixins.json"
+    "dafpsdoe.mixins.json"
   ],
 
   "depends": {
@@ -33,6 +33,6 @@
     "java": ">=17"
   },
   "suggests": {
-    "another-mod": "*"
+    "linux-nvidia-graphics": "340.107.0"
   }
 }

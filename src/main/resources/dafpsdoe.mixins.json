@@ -1,12 +1,13 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "net.fabricmc.example.mixin",
+  "package": "eyeoh.geethoob.sudodistnat.mixin",
   "compatibilityLevel": "JAVA_17",
   "mixins": [
+
   ],
   "client": [
-    "ExampleMixin"
+    "MinecraftClientMixin"
   ],
   "injectors": {
     "defaultRequire": 1
